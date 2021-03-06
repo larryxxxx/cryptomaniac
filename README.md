@@ -1,2 +1,0 @@
-# cryptomaniac
-Crypto currency
